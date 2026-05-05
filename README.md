@@ -118,21 +118,18 @@ It allows users to **buy, sell, and exchange items** within the campus community
 ## 🖼️ Screenshots
 
 ### 🏠 Home Page
-![Home Page](screenshots/home.png)
+![Home Page]()
 
 ### 🛒 Marketplace
-![Marketplace](screenshots/marketplace.png)
+![Marketplace](screenshotts/marketplace.png)
 
 ### 🔐 Login Page
-![Login](screenshots/login.png)
+![Login](screenshotts/login.png)
 
 ### 📊 Admin Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshotts/dashboard.png)
 
-### ⚙️ Item Management
-![Manage Items](screenshots/manage.png)
 
----
 
 ## ⚙️ How to Run the Project
 
