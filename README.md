@@ -118,7 +118,7 @@ It allows users to **buy, sell, and exchange items** within the campus community
 ## 🖼️ Screenshots
 
 ### 🏠 Home Page
-![Home Page]()
+![Home Page](screenshotts/home.png)
 
 ### 🛒 Marketplace
 ![Marketplace](screenshotts/marketplace.png)
